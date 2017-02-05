@@ -25,4 +25,12 @@ L'article sur lequel est basé ce code est disponible à l'adresse suivante:
 
 http://www.ijeee.net/uploadfile/2014/0807/20140807114023665.pdf
 
+Le GitHub est organisé comme suit:
+
+-ELTDM-PAGNIEZ-TEKAM.pdf: rapport et présentation du projet
+-ELTDM.rar: Données nécessaires à l'exécution du code
+-ELTDM_PAGNIEZ_TEKAM.ipynb: notebook Python utilisant scikit-learn pour tester l'algorithme d'AP et créer les données
+-Spark-ELTDM-PAGNIEZ-TEKAM.ipynb: première version du notebook Python utilisant Spark pour exécuter l'algorithme AP
+-Affinity-propagation-Spark.ipynb: Deuxième et dernière version du notebook Python utilisant Spark pour exécuter l'algorithme AP
+
 NB : Please uncompress the ELTDM.rar file to get all relevant .csv files for the code to run
