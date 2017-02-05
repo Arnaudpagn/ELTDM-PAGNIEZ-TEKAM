@@ -24,3 +24,5 @@ Le but de ce code est donc:
 L'article sur lequel est basé ce code est disponible à l'adresse suivante:
 
 http://www.ijeee.net/uploadfile/2014/0807/20140807114023665.pdf
+
+NB : Please uncompress the data.zip file to get all relevant .csv files for the code to run
